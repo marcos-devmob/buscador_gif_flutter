@@ -72,12 +72,6 @@ final String _apiKey = "SUA_API_KEY_AQUI";
 
 ---
 
-## 📸 Demonstração
-
-Em breve: screenshots ou gravação mostrando a pesquisa e compartilhamento de GIFs.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por [**Marcos Aurélio**](https://github.com/marcos-devmob)  
@@ -89,3 +83,4 @@ Desenvolvido por [**Marcos Aurélio**](https://github.com/marcos-devmob)
 
 Este projeto é de uso livre para fins de estudo e aprendizado.  
 Sinta-se à vontade para clonar, testar e contribuir! 🚀
+
